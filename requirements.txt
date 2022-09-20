@@ -1,0 +1,10 @@
+
+matplotlib @ file:///tmp/build/80754af9/matplotlib-suite_1647441664166/work
+matplotlib-inline @ file:///tmp/build/80754af9/matplotlib-inline_1628242447089/work
+numpy @ file:///tmp/abs_653_j00fmm/croots/recipe/numpy_and_numpy_base_1659432701727/work
+pandas==1.4.3
+pickleshare @ file:///tmp/build/80754af9/pickleshare_1606932040724/work
+Pillow==9.2.0
+scikit-learn @ file:///tmp/abs_d76175bc-917a-47d4-9994-b56265948a6328vmoe2o/croots/recipe/scikit-learn_1658419412415/work
+scipy @ file:///home/builder/ci_310/scipy_1641389939032/work
+streamlit @ file:///tmp/abs_c4af64a6-e8cd-486a-8e7a-4fa8b9d0c903olpgeyyl/croots/recipe/streamlit_1657914742590/work
