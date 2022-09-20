@@ -7,5 +7,9 @@ from sklearn import linear_model
 from sklearn import metrics  
 import pickle
 
-with open('marks.pickle', 'rb') as f:
+with open('marks', 'rb') as f:
     model = pickle.load(f)
+
+a = model.predict([[1.5]])
+
+print(a)
