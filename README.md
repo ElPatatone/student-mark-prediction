@@ -1,6 +1,6 @@
 # What is it 
 
-This is a simple linear regression implementation using sklearn.  
+This is a simple linear regression model implementation using sklearn.  
 It involves only 2 variables:
 - Amount of hours studied 
 - Percentage marks.  
