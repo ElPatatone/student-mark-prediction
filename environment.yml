@@ -16,5 +16,4 @@ dependencies:
   - pip:
     - pyqt5-sip==12.11.0
     - pyyaml==6.0
-    - pickle
 prefix: /home/patatone/miniconda3/envs/lg
