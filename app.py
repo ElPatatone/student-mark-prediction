@@ -17,7 +17,7 @@ def main():
 
     hide_menu = """
                 <style>
-                #MainMenu {visibility: hidden; }
+                
                 footer {visibility: hidden; } 
                 </style>
     """
