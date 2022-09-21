@@ -14,6 +14,6 @@ I then made a web app using the module `streamlit`
 [Try out the app here :+1: ](https://elpatatone-student-mark-prediction-app-uzrcq8.streamlitapp.com)
 
 ### Demo
-![demo](demo.gif)
+![](app.gif)
 
 
