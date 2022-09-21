@@ -1,4 +1,4 @@
-# What is it 
+#D:\wsl\mp\demo.webm What is it 
 
 This is a simple linear regression model implementation using sklearn.  
 The model will predict the student marks based on the amount of hours studied.  
@@ -12,3 +12,7 @@ I used a small dataset to make it easier to model ([can be found here](http://bi
 
 I then made a web app using the module `streamlit`  
 [Try out the app here :+1: ](https://elpatatone-student-mark-prediction-app-uzrcq8.streamlitapp.com)
+
+<video controls="true" allowfullscreen="true">
+ <source src="demo.mp4" type="video/mp4">
+</video>
