@@ -2,10 +2,7 @@ import streamlit as st
 import pandas as pd
 import numpy as np   
 import pickle
-from sklearn.model_selection import train_test_split  
-from sklearn.linear_model import LinearRegression  
-from sklearn import linear_model
-from sklearn import metrics  
+import sklearn
 
 #importing model
 def load_model(file):
