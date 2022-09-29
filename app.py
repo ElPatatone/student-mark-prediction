@@ -31,9 +31,10 @@ def main():
     ## What is this?
 
     This is a simple linear regression model that will predict the marks of a student based on the amount of hours studied.
-
-    #### You can find the code for this streamlit app in here: 
-    - [https://github.com/ElPatatone/student-mark-prediction]  
+    This will take one input, the amount of hours studied. The model was trained on a very small set of data and the aim of this project was to better understand the concept of linear regression and get 
+    hands on experience with making an end to end app with streamlit as the front end.
+    
+    **[source code for project](https://github.com/ElPatatone/student-mark-prediction)**
     """)
     st.write('')
     st.write('')
